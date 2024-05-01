@@ -1,4 +1,6 @@
 # Level Name
+## Status
+
 ## Biomes
 - 
   
@@ -13,3 +15,6 @@
 
 ## Gates to other Levels
 - 
+
+## Notable Locations
+-
