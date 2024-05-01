@@ -4,6 +4,7 @@ Mostly cleared
 
 ## Biomes
 - Dungeon
+- Cave-ins
   
 ## Factions
 - Undertakers (Vampirecosplayers. Deceased)
