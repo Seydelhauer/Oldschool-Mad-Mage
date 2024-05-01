@@ -1,4 +1,6 @@
 # Arcane Chambers
+## Status
+Some Mysteries remain
 ## Biomes
 - Dungeon
 - Cave-ins
