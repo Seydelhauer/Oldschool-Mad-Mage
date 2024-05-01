@@ -2,6 +2,7 @@
 ## Biomes
 - Forest
 - Cave
+- River
   
 ## Factions
 - Wyllow (Elven Druid and her followers)
