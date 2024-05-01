@@ -17,3 +17,6 @@
 ## Notable Treasures
 - Tearulai (Sentient Sword with a lot of Gemstones)
 - Crissans Treasure (He wants to part with it if Wyllow is dead)
+
+## Gates to other Levels
+- None that we know of
